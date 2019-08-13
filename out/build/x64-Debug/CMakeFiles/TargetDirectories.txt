@@ -1,2 +1,0 @@
-C:/Users/amind/source/repos/I_O_Files1/I_O_Files1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/amind/source/repos/I_O_Files1/I_O_Files1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
