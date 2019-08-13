@@ -1,0 +1,13 @@
+.vs
+build
+Debug
+x64
+*.make
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.users
+ALL_BUILD.vcxproj.user
+Project.sln
+
+
+
