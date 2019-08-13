@@ -1,3 +1,4 @@
-cmake_minimum_required(VERSION 3.0.0)
-project(Source.cpp)
-add_executable(Source.cpp)
+cmake_minimum_required (VERSION 3.10)
+set(PROJECT_NAME I_O_Files)
+project(${PROJECT_NAME})
+add_executable (${PROJECT_NAME} Source.cpp)
